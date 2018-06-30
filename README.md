@@ -1,6 +1,6 @@
-# crypt0guides
+# Masternode Guides
 
-Here you will find my zeroth level (aka step-by-step) masternode setup guides for specific coins.  The aim is to let people with little knowledge of linux set up safe and secure masternodes as easily as possible.
+Here you will find my step-by-step masternode setup guides for specific coins.  The aim is to let people with little knowledge of linux set up effective and secure masternodes as easily as possible.
 
 If I've helped you on your crypto journey and you want to support me, any spare BTC is welcome: `38ZpM7YDKJXP8FjRHWCihdjiKcsVnoNffc`
 
@@ -12,7 +12,7 @@ A lot of masternode coins have pretty incomplete or confusing guides.  When I st
 
 I started searching for a better solution and stumbled across the [Nodemaster script by Florian Maier](https://github.com/masternodes/vps).  He claims it's the most straightforward way to set up any masternode, and I'd be inclined to agree with him.  It's a consistently slick process that I've never looked back from.
 
-It was never my intention to write guides, but I got into a discussion with a Discord mod and they asked me to make a guide for their community, to show them how to make stress free masternodes, even if they don't have any linux experience.
+It was never my intention to write guides, but I got into a discussion with a Discord mod and they asked me to make a guide for their community, to show them how to make stress free masternodes even if they don't have any Linux experience.
 
 ## Coin Specific Guides
 
