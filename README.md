@@ -2,7 +2,7 @@
 
 Here you will find my step-by-step masternode setup guides for specific coins.  The aim is to let people with little knowledge of linux set up effective and secure masternodes as easily as possible.
 
-If I've helped you on your crypto journey and you want to support me, any spare BTC is welcome: `38ZpM7YDKJXP8FjRHWCihdjiKcsVnoNffc`
+If I've helped you on your crypto journey and you want to say thanks, any spare BTC is welcome: `38ZpM7YDKJXP8FjRHWCihdjiKcsVnoNffc`
 
 ---
 
@@ -14,12 +14,18 @@ I started searching for a better solution and stumbled across the [Nodemaster sc
 
 It was never my intention to write guides, but I got into a discussion with a Discord mod and they asked me to make a guide for their community, to show them how to make stress free masternodes even if they don't have any Linux experience.
 
+## VPS Setup
+
+The best way to run a masternode is with a secure Virtual Private Server (VPS).  These allow you to run a "cold node" which means the masternode itself doesn't have direct control of your coins and protects you in case of server intrusion.
+
+I recommend Vultr.com for this service, and I've written [a guide](docs/vultr_vps) to setting up and maintaining VPS on their platform.
+
 ## Coin Specific Guides
 
 This is the list of guides I've added.  Follow the link to find the detailed instructions for your specific coin:
 
 
-If I've helped you on your crypto journey and you want to support me, any spare BTC is welcome: `38ZpM7YDKJXP8FjRHWCihdjiKcsVnoNffc`
+If I've helped you on your crypto journey and you want to say thanks, any spare BTC is welcome: `38ZpM7YDKJXP8FjRHWCihdjiKcsVnoNffc`
 
 ---
 
