@@ -18,7 +18,7 @@ It was never my intention to write guides, but I got into a discussion with a Di
 
 The best way to run a masternode is with a secure Virtual Private Server (VPS).  These allow you to run a "cold node" which means the masternode itself doesn't have direct control of your coins and protects you in case of server intrusion.
 
-I recommend Vultr.com for this service, and I've written [a guide](docs/vultr_vps) to setting up and maintaining VPS on their platform.
+I recommend Vultr.com for this service, and I've written [a guide](docs/vultr_vps.md) to setting up and maintaining VPS on their platform.
 
 ## Coin Specific Guides
 
